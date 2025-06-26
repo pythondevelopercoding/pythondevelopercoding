@@ -60,9 +60,7 @@
   <a href="https://github.com/saiaika">
     <img src="https://img.shields.io/badge/Alt_GitHub-555?style=for-the-badge&logo=github&logoColor=white" height="45"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Palestine_(region)">
-    <img src="https://img.shields.io/badge/🇵🇸-Free_Palestine-black?style=for-the-badge" height="45"/>
-  </a>
+  <img src="https://img.shields.io/badge/🇵🇸-Free_Palestine-black?style=for-the-badge" height="45"/>
 </p>
 
 ---
