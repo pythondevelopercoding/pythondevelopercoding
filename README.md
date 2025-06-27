@@ -1,37 +1,38 @@
-<!-- 🌊 Ultra-Stylish GitHub Profile ReadMe - Supercharged Version -->
+<!-- 🌌 Ultra-Enhanced GitHub Profile README with Animated Background Feel -->
 
-<!-- 🟦 Header Wave + Palestinian Flag -->
+<!-- 🎆 Glowing Wave Header + Flag -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF,181717&height=180&section=header&text=Hi%20There!%20I'm%20a%20Python%20Dev%20👋&fontSize=42&fontAlignY=40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="90" alt="Palestinian Flag"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF,181717&height=200&section=header&text=Hi%20I'm%20a%20Python%20Dev%20👋&fontSize=42&fontAlignY=40"/>
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="80" title="🇵🇸 Free Palestine"/>
 </p>
 
-<!-- ⌨️ Big Typing Effect -->
+<!-- 🔥 Animated Background Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=🌟+Python+Developer+%7C+Automation+Engineer;🚀+FastAPI,+Django,+AI+Explorer;💡+Clean+Code,+APIs,+Scraping,+Linux+Lover;🇵🇸+Palestinian+Tech+Supporter+%7C+Free+Palestine!" alt="Typing Animation"/>
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="100%" alt="Cool Animated Background Banner"/>
 </p>
 
-<!-- 💡 About Me -->
+<!-- 🧠 About Me -->
 <h2 align="center">🧠 About Me</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Developer GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
 </p>
-<p align="center" style="max-width:800px; font-size:18px;">
-  I’m a passionate <b>Python developer</b> focused on building scalable backend systems, automating boring stuff, and contributing to open-source. Currently exploring <code>Machine Learning</code> and <code>DevOps</code> with <code>Docker</code> and <code>Linux</code>. I love sharing knowledge, building tools, and solving real-world problems — especially when it helps empower others.
+<p align="center" style="max-width:800px; font-size:17px; line-height:1.5;">
+  I'm a passionate <strong>Python developer</strong> building fast, scalable backends & automation tools. I'm exploring <code>Machine Learning</code>, <code>FastAPI</code>, <code>Linux</code>, and <code>Docker</code>. I love solving real-world problems and supporting the tech community — 🇵🇸 <strong>Free Palestine</strong>.
 </p>
 
 ---
 
 <!-- 🛠️ Tech Stack -->
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">🧰 My Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,bash,git,vscode,github&theme=dark" alt="Tech Stack" height="50">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,linux,bash,git,vscode,github&theme=light" height="50"/>
 </p>
 
 ---
 
-<!-- 📊 Stats Section -->
-<h2 align="center">📈 GitHub Stats & Activity</h2>
+<!-- 📊 GitHub Stats -->
+<h2 align="center">📈 GitHub Insights</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pythondevelopercoding&show_icons=true&theme=tokyonight&hide_border=true&hide=prs" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pythondevelopercoding&theme=tokyonight&hide_border=true" height="170"/>
@@ -45,27 +46,27 @@
 
 ---
 
-<!-- 📬 Let's Connect -->
-<h2 align="center">📬 Let's Connect</h2>
+<!-- 🌐 Connect With Me -->
+<h2 align="center">📬 Connect With Me</h2>
 <p align="center">
   <a href="mailto:hasgang197@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
   <a href="https://x.com/pythoncodingdev">
-    <img src="https://img.shields.io/badge/X(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40"/>
   </a>
   <a href="https://github.com/pythondevelopercoding">
-    <img src="https://img.shields.io/badge/Main_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Main_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
   <a href="https://github.com/saiaika">
-    <img src="https://img.shields.io/badge/Alt_GitHub-555?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Alt_GitHub-555?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   </a>
-  <img src="https://img.shields.io/badge/🇵🇸-Free_Palestine-black?style=for-the-badge" height="45"/>
+  <img src="https://img.shields.io/badge/🇵🇸-Free_Palestine-black?style=for-the-badge" height="40"/>
 </p>
 
 ---
 
-<!-- 🧩 Footer -->
+<!-- 🔚 Glowing Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=181717,00F7FF&height=100&section=footer"/>
 </p>
