@@ -74,7 +74,7 @@ Hi, I’m **c++ developer by** — a passionate C++ developer with a deep intere
 ## 🎯 Fun Facts
 
 - I love solving **system-level** and **algorithmic** problems.
-- Big fan of [your favorite game/book/hobby].
+- Big fan of BGMI/PUBG.
 
 ---
 
