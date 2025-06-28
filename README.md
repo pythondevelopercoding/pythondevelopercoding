@@ -1,84 +1,93 @@
-# C++ Developer | @developercoderreal | Portfolio
+# 👨‍💻 C++ Developer | [@developercoderreal](https://github.com/developercoderreal)
 
-Welcome to my C++ Developer profile! 🚀  
-I specialize in writing efficient, maintainable, and high-performance code. Below you'll find my skills, future projects, and contributions.
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **C++ Developer**, a passionate C++ developer with a love for solving complex problems and creating elegant, efficient solutions. I have experience working with a variety of C++ frameworks and libraries, and I’m always looking for opportunities to improve my skills while building real-world applications.
-
-- 🔭 I’m currently working on learning **[New C++ Feature / Technology]**.
-- 🌱 I’m focusing on building **real-world C++ projects** in the near future.
-- 📫 How to reach me: **hasgang197@gmail.com**.
+Welcome to my GitHub! 🚀  
+I specialize in writing **efficient**, **maintainable**, and **high-performance** C++ code. Here you'll find my latest projects, experiments, and blog content focused on real-world C++ development.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 📌 About Me
 
-- **Languages**: C++, Python, SQL
-- **Frameworks & Libraries**: STL, Boost, Qt, OpenCV, TensorFlow (C++ API)
-- **Tools**: Git, CMake, Docker, GDB, Visual Studio, CLion, Valgrind
-- **Databases**: MySQL, SQLite, PostgreSQL
-- **Operating Systems**: Linux, Windows, macOS
-- **Design Patterns**: Factory, Singleton, Observer, Strategy, etc.
-- **Development Concepts**: Multithreading, Parallel Computing, Memory Management, Object-Oriented Programming (OOP), and more
+Hi, I’m **@developercoderreal** — a passionate C++ developer with a deep interest in systems programming and software design.
+
+- 🔭 Currently exploring: `C++23`, `Qt`, `OpenGL`
+- 🛠 Building: Real-world C++ applications and tools
+- 📫 Reach me at: [hasgang197@gmail.com](mailto:hasgang197@gmail.com)
+
+---
+
+## ⚙️ Tech Stack
+
+### 🔤 Languages
+- C++
+- Python
+- SQL
+
+### 📦 Frameworks & Libraries
+- STL, Boost, Qt, OpenCV, TensorFlow (C++ API)
+
+### 🧰 Tools
+- Git, CMake, Docker, GDB, CLion, Visual Studio, Valgrind
+
+### 🗄 Databases
+- MySQL, PostgreSQL, SQLite
+
+### 🧠 Concepts & Design
+- OOP, Memory Management, Multithreading, Parallel Computing  
+- Design Patterns: Factory, Singleton, Observer, Strategy, etc.
 
 ---
 
 ## 🚀 Future Projects
 
-### **Project**
-**Description**: A brief overview of the project you plan to work on.  
-🔧 Key Features:
-- Feature 1
-- Feature 2
-- Feature 3  
+### 🔹 Smart Visualizer  
+> Real-time C++ GUI application using Qt & OpenGL
+
+**Features**:
+- Dynamic rendering  
+- Modular component system  
+- GPU-accelerated animations  
+
 **Tech Stack**: C++, Qt, OpenGL  
-**Status**: Coming Soon
+**Status**: 🚧 In Progress
 
 ---
 
-### **Project**
-**Description**: A brief overview of the project you plan to work on.  
-🔧 Key Features:
-- Feature 1
-- Feature 2  
+### 🔹 AI Image Filter  
+> Lightweight computer vision tool for image enhancement
+
+**Features**:
+- Edge detection  
+- Noise removal  
+- Auto-adjust filters  
+
 **Tech Stack**: C++, STL, OpenCV  
-**Status**: Coming Soon
+**Status**: 🚧 Coming Soon
 
 ---
 
 ## 📈 GitHub Stats
 
-![@developercoderreal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=developercoderreal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developercoderreal&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 📝 Blog / Articles
+## 📚 Blog / Articles
 
-- [Design Patterns in C++: A Deep Dive](https://your-website.com/blog/design-patterns)
+- 📖 [Design Patterns in C++: A Deep Dive](https://your-website.com/blog/design-patterns)
 
 ---
 
-## ⚡ Fun Facts
+## 🎯 Fun Facts
 
-- I’m a huge fan of [Favorite Game, Book, Hobby].
-- I enjoy solving [Type of Problems, e.g., algorithmic, system-level] problems.
+- I love solving **system-level** and **algorithmic** problems.
+- Big fan of [your favorite game/book/hobby].
 
 ---
 
 ## 🔗 Connect With Me
 
-- [Website](https://ifastlog.rf.gd)
-- [Email](mailto:hasgang197@gmail.com)
+- 🌐 [Portfolio Website](https://ifastlog.rf.gd)  
+- 📬 [Email](mailto:hasgang197@gmail.com)  
+- 💻 [GitHub](https://github.com/developercoderreal)
 
----
-
-> "A good programmer is someone who always looks both ways before crossing a one-way street." — *Doug Linder*
-
----
-
-**Thank you for visiting my profile!** 👋
-
+Thanks for visiting! ⭐️ Feel free to fork, clone, and connect.
