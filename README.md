@@ -1,13 +1,13 @@
 # 👨‍💻 C++ Developer | [@developercoderreal](https://github.com/developercoderreal)
 
 Welcome to my GitHub! 🚀  
-I specialize in writing **efficient**, **maintainable**, and **high-performance** C++ code. Here you'll find my latest projects, experiments, and blog content focused on real-world C++ development.
+I specialize in writing **efficient**, **maintainable**, and **high-performance** C++ code. Here you'll find my latest projects, experiments, and contributions to real-world C++ development.
 
 ---
 
 ## 📌 About Me
 
-Hi, I’m **@developercoderreal** — a passionate C++ developer with a deep interest in systems programming and software design.
+Hi, I’m **c++ developer by** — a passionate C++ developer with a deep interest in systems programming and software design.
 
 - 🔭 Currently exploring: `C++23`, `Qt`, `OpenGL`
 - 🛠 Building: Real-world C++ applications and tools
@@ -68,12 +68,6 @@ Hi, I’m **@developercoderreal** — a passionate C++ developer with a deep int
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developercoderreal&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 📚 Blog / Articles
-
-- 📖 [Design Patterns in C++: A Deep Dive](https://your-website.com/blog/design-patterns)
 
 ---
 
